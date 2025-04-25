@@ -1,4 +1,4 @@
-a# Implementation-of-filter
+# Implementation-of-filter
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
@@ -50,6 +50,7 @@ plt.show()
 ```
 ## Output 
 
+![download](https://github.com/user-attachments/assets/a3fa7bb6-f735-4ced-8af4-a2cb719be35b)
 
 #### ii) Using Weighted Averaging Filter
 ```
@@ -62,6 +63,7 @@ plt.show()
 ```
 ## Output
 
+![download](https://github.com/user-attachments/assets/c1081d48-15aa-405d-943e-c992ddc7ba79)
 
 
 #### iii) Using Gaussian Filter
@@ -74,6 +76,7 @@ plt.show()
 ```
 ## Output
 
+![download](https://github.com/user-attachments/assets/197178bd-8a62-4472-9846-795cc66bc639)
 
 
 #### iv)Using Median Filter
@@ -86,6 +89,7 @@ plt.show()
 ```
 ## Output
 
+![download](https://github.com/user-attachments/assets/0ce16f0f-1d0e-4770-a22a-2f1ba6e02257)
 
 
 ### 2. Sharpening Filters
@@ -101,6 +105,7 @@ plt.show()
 ```
 ## Output
 
+![download](https://github.com/user-attachments/assets/328c844c-6cb7-452b-abd2-b6a19ab7ec18)
 
 
 #### ii) Using Laplacian Operator
@@ -113,7 +118,7 @@ plt.show()
 ```
 ## Output
 
-
+![download](https://github.com/user-attachments/assets/f1466254-4219-4958-8d75-eb7a00f39c08)
 
 
 ## Result:
